@@ -33,12 +33,6 @@ Using a **ResNet-b0 backbone** fused with metadata embeddings, our model signifi
 
 ---
 
-## ⚠️ Limitations  
-- Computationally more expensive than unimodal baselines.  
-- Sensitive to **metadata accuracy** (drug_category, dosage_form, otc_status).  
-- Dataset size is limited and may not capture diverse handwriting styles.  
-- SHAP explainability applied only to metadata, not to image features.  
-
 ---
 
 ## 🚀 Future Work  
